@@ -1,17 +1,12 @@
-html {
-    font-size: 21px;
-}
-
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     background-color: black;
     font-weight: 400;
-}
-
-h1, h2{
+    font-size: 21px;
     color: white;
 }
+
 
 h1 {
     font-size: 50px;
